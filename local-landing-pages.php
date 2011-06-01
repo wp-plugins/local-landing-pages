@@ -3,7 +3,7 @@
 Plugin Name: Local Landing Pages
 Plugin URI: Pending.
 Description: Allows users to set specific landing pages for visitors based on their browser's preferred language setting.
-Version: 0.5
+Version: 0.0.5
 Author: Ross Chapman & Desiree Cox for Zendesk
 Author URI: http://zendesk.com
 License: GPL2
